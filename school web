@@ -1,1 +1,104 @@
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="school web.css">
+    <title>school</title>
+</head>
+<body>
+    <div class="main">
+        <div class="d2">
+       <nav class="">  
+<p  class="p">
+    <i class="fa-solid fa-envelope"></i>arbazkn@45257gmail.com 
+    <i class="fa-solid fa-phone" style="margin-left: 30px;"></i>+923481345257</p>
+    <p class="p1">
+    <button style="float:right; margin-top: 9px; padding:12.5px; border: none; background-color: rgb(224, 61, 61); color: white;">supporat pk</button>
+    <i  class="fa-brands fa-facebook" style="float:right; margin-top: 20px; margin-right: 10px;"></i>
+    <i class="fa-brands fa-linkedin" style="float:right; margin-top: 20px; margin-right: 10px;"></i>
+    <i class="fa-brands fa-twitter" style="float:right; margin-top: 20px; margin-right: 10px;"></i>
+    <i class="fa-brands fa-vimeo" style="float:right; margin-top: 20px; margin-right: 10px;"></i></p>
+       </nav>
+       </div>
+       <div class="d3">
+        <img id="img" src="https://a6e8z9v6.stackpathcdn.com/kingster/kindergarten/wp-content/uploads/2019/06/logo-kindergarten.png"
+         alt="" width="300" height="61" title="logo-kindergarten">
+         <ul>
+            <li> <a href=""> Home </a>
+            <!-- <ul>
+                <li> <a href="">University Home 1</a></li>
+                <li><a href="">University Home 2</a></li>
+                <li><a href="">kinder garten</a></li>
+                <li><a href="">Hight School</a> </li>
+            </ul> -->
+            </li>
+            <li><a href=""> About us </a></li>
+            <li><a href=""> Admissions </a></li>
+            <li><a href=""> Page </a></li>
+            <li><a href=""> Blog</a></li>
+            <li><a href="">Courses</a></li>
+            <li><a href="">Schoool life</a></li>
+            <li><a href=""> Contact </a></li>
+         </ul>
+         <ul>
+		
+       </div>
+       <div class="d4" data-aos="zoom-in-up" >
+        <img class="img1" src="aa.jpg" alt=""> 
+        <!-- /* <h1> KINGSTER SCHOOL <br> LEAVING</h1> */ -->
+       </div>
+       <div class="g1" data-aos="zoom-in-up"><img src="image1.jpg" class="img0" alt="">
+        <h5 class="h1"> <span> Art Program  For Kids </span> <br><br> Teacher : sumaira khanam <br><br>Grade :5 <br><br> <a href="#">Raed More<i class="fa-solid fa-arrow-right"></i></a> </h5>
+        </div>
+       <div class="g2" data-aos="zoom-in-up"><img src="images2.jpg" class="img0" alt="">
+        <h5 class="h1"> <span>Art Program  For Kids </span> <br><br> Teacher : sumaira khanam <br><br>Grade :5 <br><br> <a href="#">Raed More <i class="fa-solid fa-arrow-right"></i></a> </h5>
+        </div>
+       <div class="g3" data-aos="zoom-in-up"><img src="image3.jpg" class="img0" alt="">
+        <h5 class="h1"><span> Art Program  For Kids </span> <br><br> Teacher : sumaira khanam <br><br>Grade :5 <br><br> <a href="#">Raed More<i class="fa-solid fa-arrow-right"></i></a> </h5>
+        </div>
+       <div class="g4" data-aos="zoom-in-up"><img src="image3.jpg" class="img0" alt="">
+        <h5 class="h1"> <span>Art Program  For Kids </span> <br><br> Teacher : sumaira khanam <br><br>Grade :5 <br><br> <a href="#">Raed More<i class="fa-solid fa-arrow-right"></i></a> </h5>
+        </div>
+       <div class="g5" data-aos="zoom-in-left"><img src="image5.jpg" class="img0" alt="">
+        <h5 class="h1"> <span>Art Program  For Kids </span> <br><br> Teacher : sumaira khanam <br><br>Grade :5 <br><br> <a href="#">Raed More<i class="fa-solid fa-arrow-right"></i></a> </h5>
+        </div>
+       <div class="g6" data-aos="zoom-in-left"><img src="image6.jpg" class="img0" alt="">
+        <h5 class="h1"> <span>Art Program  For Kids </span> <br><br> Teacher : sumaira khanam <br><br>Grade :5 <br><br> <a href="#">Raed More<i class="fa-solid fa-arrow-right"></i></a> </h5>
+        </div>
+        <div class="a" data-aos="zoom-in-left"><img id="im" src="https://a6e8z9v6.stackpathcdn.com/kingster/kindergarten/wp-content/uploads/2019/06/logo-kindergarten.png">
+        <p> Box 35300 <br> 1810 Campus way NE <br> Bothell, 98011-8246 <br><br>+13-2655-2545 <br><br>sumairakhanam25745@gmail.com</p>
+       <br><br><br>
+        <div class="class1"></div>
+        </div>
+        <div class="b" data-aos="zoom-in-down" >
+            <h3>Our Compus</h3>
+            <div class="class1"></div>
+            <p>Acedemic <br><br>Planing  & Admissiotration <br> <br>Compus Safety <br><br>Office Of the Chancellar <br><br>Facillity Servicese <br><br> Human Resourceses </p>
+        </div>
+        <div class="c" data-aos="zoom-in-left"> <h3>Compus Life</h3>
+            <div class="class1"></div>
+            <p>Acedemic <br><br>Planing  & Admissiotration <br> <br>Compus Safety <br><br>Office Of the Chancellar <br><br>Facillity Servicese <br><br> Human Resourceses </p></div>
+        <div class="d" data-aos="fade-right"> <h3>Academic</h3>
+            <div class="class1"></div>
+            <p>Acedemic <br><br>Planing  & Admissiotration <br> <br>Compus Safety <br><br>Office Of the Chancellar <br><br>Facillity Servicese <br><br> Human Resourceses </p></div>
+        <div class="footer">
+            <p class="pp">CopyRight All Right Reserved 2023 Arbazkn45257@gmail.com</p>
+            <p class="icon"><i  class="fa-brands fa-facebook"  ></i>
+                <i class="fa-brands fa-google-plus-g"></i>
+                <i class="fa-brands fa-linkedin"></i>
+                <i class="fa-brands fa-skype" ></i>
+                <i class="fa-brands fa-twitter"></i>
+                <i class="fa-brands fa-instagram"></i>
+            </p>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+</body>
+<script>
+    AOS.init();
+  </script>
+</html>
